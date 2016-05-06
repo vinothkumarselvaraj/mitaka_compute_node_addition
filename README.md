@@ -7,9 +7,9 @@ Bash script to add new compute node to the existing openstack-mitaka setup.
 Bash script to install/add compute node to openstack-Mitaka controller in ubuntu 14.04LTS
 
 >Download the script using the below command:
->>git clone https://github.com/CloudenablersPvtLtd/openstack-setup.git
+>>git clone https://github.com/vinothkumarselvaraj/mitaka_compute_node_addition.git
 
->>cd openstack-setup/compute_node_addition/
+>>cd mitaka_compute_node_addition/mitaka_compute_node_addition/
 
 Script Usage: install_compute.bash --controllernode_ip_address [Your controller Ip] --computenode_ip_address [Your computenode Ip] --interface_name [interface name of compute node]
 
